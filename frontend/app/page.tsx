@@ -8,7 +8,6 @@ import GPMPieChart from "./components/profit_piechart";
 export default function Page() {
   return (
     <>
-      <h1>shaheer</h1>
       <div
         style={{ display: "flex", paddingTop: "30px", paddingBottom: "30px" }}
       >
